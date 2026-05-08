@@ -1,7 +1,7 @@
 // exit_node.js - Complete working version for Render
 
 // ===== CONFIGURATION - CHANGE THIS =====
-const PSK = "Raymond15#secret";  // Replace with your secret key
+const PSK = "skkddjssuecgb238shdu";  // Replace with your secret key
 // =======================================
 
 // Helper function to send JSON response
