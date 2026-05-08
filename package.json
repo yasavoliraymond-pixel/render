@@ -1,0 +1,13 @@
+{
+  "name": "exit-node",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "exit_node.ts",
+  "scripts": {
+    "start": "node exit_node.ts"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
