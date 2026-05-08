@@ -1,5 +1,5 @@
 // At the VERY TOP - change this immediately!
-const PSK = "CHANGE_ME_TO_A_STRONG_SECRET";  // Replace with your secret
+const PSK = "Raymond15#secret";  // Replace with your secret
 
 // Then paste the ENTIRE original script content here
 // (the handler function, etc.)
